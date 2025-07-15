@@ -1,0 +1,6 @@
+name = input("enter a name:")
+print("your name is"+ name)
+number =input("num 1 + num 2 =")
+Print("num = num 1 + num2")
+number = input("number i = ")
+print("number is ")
